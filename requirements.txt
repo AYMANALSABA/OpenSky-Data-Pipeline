@@ -1,0 +1,6 @@
+apache-airflow
+pandas
+requests
+sqlalchemy
+psycopg2-binary
+python-dotenv
